@@ -2,10 +2,19 @@
 
 Components Create By Douglas Hwang.
 
-### Packages
+### Used Packages
 - material-ui
 - react-icon
 - react-bootstrap
 - react-spring
 - react-icons
 - styled-components
+
+
+### Builed Components
+- <GoogleReviewSimple />
+
+
+### Plan to do
+- <NavBar />
+- <Footer />
