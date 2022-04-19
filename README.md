@@ -12,10 +12,9 @@ Components Create By Douglas Hwang.
 
 
 ### Builed Components
-- <GoogleReviewSimple />
+- ``<GoogleReviewSimple />``
 
 
 ### Plan to do
-- <NavBar />
-- <Footer />
-``Use `code` in your Markdown file.``
+- ``<NavBar />``
+- ``<Footer />``
