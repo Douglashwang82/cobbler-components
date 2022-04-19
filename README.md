@@ -2,7 +2,7 @@
 
 Components Create By Douglas Hwang.
 
-### Used Packages
+### Packages
 - material-ui
 - react-icon
 - react-bootstrap
