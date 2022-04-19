@@ -1,6 +1,6 @@
 # cobbler-components
 
-## Components Create By Douglas Hwang.
+Components Create By Douglas Hwang.
 
 ### Packages
 - material-ui
