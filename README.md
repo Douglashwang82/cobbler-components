@@ -10,11 +10,13 @@ Components Create By Douglas Hwang.
 - react-icons
 - styled-components
 
+### Finished...
+- ``TBA``
 
-### Builed Components
+### Building...
 - ``<GoogleReviewSimple />``
 
 
-### Plan to do
+### Plan to...
 - ``<NavBar />``
 - ``<Footer />``
